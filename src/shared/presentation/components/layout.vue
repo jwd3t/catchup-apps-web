@@ -2,6 +2,7 @@
 import {ref} from "vue";
 import {Button as PvButton, Menubar as PvMenubar} from "primevue";
 import LanguageSwitcher from "./language-switcher.vue";
+import FooterContent from "./footer-content.vue";
 
 const drawerVisible = ref(false);
 const toggleDrawer = () => {
@@ -23,6 +24,7 @@ const toggleDrawer = () => {
     </pv-menubar>
   </div>
 </div>
+<footer-content/>
 </template>
 
 <style scoped>

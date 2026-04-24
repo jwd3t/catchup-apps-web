@@ -11,7 +11,7 @@ const {t} = useI18n();
   </div>
   <div class="col-12 ml-3 align-items-center justify-content-center">
     <p>
-      {{t('authoring-phrase.intro')}} <i class="pit pi-heart"/>
+      {{t('authoring-phrase.intro')}} <i class="pi pi-heart"/>
       {{t('authoring-phrase.use')}} <a href="https://primevue.org" target="_blank">PrimeVue</a>
       {{t('authoring-phrase.author', {brand: 'ACME Studios'})}}
     </p>
