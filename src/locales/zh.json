@@ -1,0 +1,17 @@
+{
+  "read-more": "阅读更多",
+  "unavailable-news": "新闻服务目前不可用。",
+  "authoring-phrase": {
+    "intro": "由",
+    "use": "使用",
+    "author": "由 {brand} 开发团队制作"
+  },
+  "article": {
+    "share": "分享",
+    "copy-to-clipboard": "复制到剪贴板"
+  },
+  "footer": {
+    "powered-by": "内容由",
+    "and": "和"
+  }
+}
